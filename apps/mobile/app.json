@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Threads of Fate",
+    "slug": "threads-of-fate",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "tof",
+    "icon": "./assets/icon.png",
+    "splash": { "image": "./assets/splash.png", "resizeMode": "contain", "backgroundColor": "#0b0c0f" },
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "foregroundImage": "./assets/adaptive-icon.png", "backgroundColor": "#0b0c0f" } },
+    "web": { "bundler": "metro" },
+    "plugins": [
+      [
+        "react-native-purchases",
+        {
+          "ios": { "apiKey": "REVENUECAT_IOS_API_KEY" },
+          "android": { "apiKey": "REVENUECAT_ANDROID_API_KEY" }
+        }
+      ]
+    ],
+    "extra": {
+      "eas": { "projectId": "REPLACE_WITH_EAS_PROJECT_ID" },
+      "EXPO_PUBLIC_API_BASE": "http://localhost:3000",
+      "EXPO_PUBLIC_RC_IOS_KEY": "REVENUECAT_IOS_API_KEY",
+      "EXPO_PUBLIC_RC_ANDROID_KEY": "REVENUECAT_ANDROID_API_KEY",
+      "EXPO_PUBLIC_RC_ENTITLEMENT": "pro",
+      "EXPO_PUBLIC_DEV_PRO": false
+    }
+  }
+}

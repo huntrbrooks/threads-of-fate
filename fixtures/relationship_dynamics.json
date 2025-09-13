@@ -1,0 +1,30 @@
+{
+  "user_id": "5f2b3f56-5a9c-4f1a-9e1a-2f3cbeef1122",
+  "session_id": "a2c6b9d0-11a4-4f8d-9b2a-145bc3e2f0b3",
+  "timestamp_iso": "2025-09-13T10:05:00+10:00",
+  "intent": "relationship_dynamics",
+  "focus_prompt": "How do we rebuild trust and move forward well?",
+  "timeframe": "90d",
+  "constraints": { "no_topics": [], "exclude_people": [] },
+  "context": { "relationship_status": "partnered", "work_status": "employed", "emotion_tone": 4 },
+  "style": { "voice": "gentle_coach", "depth": "standard", "spirituality": "light" },
+  "spread": {
+    "name": "Mirror Five",
+    "positions": ["You", "Them", "Bridge", "Shadow", "Growth edge"]
+  },
+  "deck": "RWS",
+  "cards_drawn": [
+    { "name": "Queen of Cups", "reversed": false, "position": 1 },
+    { "name": "Knight of Swords", "reversed": true, "position": 2 },
+    { "name": "Two of Cups", "reversed": false, "position": 3 },
+    { "name": "The Devil", "reversed": true, "position": 4 },
+    { "name": "Temperance", "reversed": false, "position": 5 }
+  ],
+  "reader_notes": {
+    "majors_count": 2,
+    "element_bias": { "fire": 1, "water": 2, "air": 1, "earth": 1 },
+    "reversals_count": 2,
+    "numerology": { "aces": 0, "fives": 0, "sevens": 0 }
+  }
+}
+

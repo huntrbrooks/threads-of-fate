@@ -1,0 +1,26 @@
+{
+  "user_id": "c61c1c1f-9b6e-4bb8-9c24-2dba3e91fa02",
+  "session_id": "3a4361f4-2b7b-4a87-96a1-9f0a2b9b2c5e",
+  "timestamp_iso": "2025-09-13T10:15:00+10:00",
+  "intent": "health_energy",
+  "focus_prompt": "How can I stabilize my energy day to day?",
+  "timeframe": "30d",
+  "constraints": { "no_topics": ["medical diagnosis", "prescriptions"], "exclude_people": [] },
+  "context": { "relationship_status": "n/a", "work_status": "freelance", "emotion_tone": 3 },
+  "style": { "voice": "straight_talker", "depth": "standard", "spirituality": "light" },
+  "spread": { "name": "Vital Four", "positions": ["Body","Mind","Habits","Support"] },
+  "deck": "RWS",
+  "cards_drawn": [
+    { "name": "Four of Swords", "reversed": false, "position": 1 },
+    { "name": "Strength", "reversed": true, "position": 2 },
+    { "name": "Temperance", "reversed": false, "position": 3 },
+    { "name": "Ace of Cups", "reversed": false, "position": 4 }
+  ],
+  "reader_notes": {
+    "majors_count": 2,
+    "element_bias": { "fire": 2, "water": 1, "air": 1, "earth": 0 },
+    "reversals_count": 1,
+    "numerology": { "aces": 1, "fives": 0, "sevens": 0 }
+  }
+}
+

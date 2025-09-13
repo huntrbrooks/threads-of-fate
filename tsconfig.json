@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["ES2022", "DOM"],
+    "module": "ESNext",
+    "moduleResolution": "NodeNext",
+    "strict": true,
+    "resolveJsonModule": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/src/*": ["src/*"]
+    },
+    "skipLibCheck": true
+  },
+  "include": ["app/**/*", "src/**/*", "scripts/**/*", "fixtures/**/*"],
+  "exclude": ["node_modules"]
+}
+

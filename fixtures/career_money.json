@@ -1,0 +1,32 @@
+{
+  "user_id": "0a7c1ff2-1e2d-4b7a-8a23-8967bbda22a1",
+  "session_id": "b7ee8b5e-2c33-4625-8c25-9d8a119e3f9b",
+  "timestamp_iso": "2025-09-13T10:10:00+10:00",
+  "intent": "career_money",
+  "focus_prompt": "Is it time to step into a leadership role?",
+  "timeframe": "6m",
+  "constraints": { "no_topics": [], "exclude_people": [] },
+  "context": { "relationship_status": "n/a", "work_status": "employed", "emotion_tone": 2 },
+  "style": { "voice": "practical_strategist", "depth": "standard", "spirituality": "none" },
+  "spread": {
+    "name": "Ladder Seven",
+    "positions": ["Base","Current rung","Next rung","Block","Ally","Leverage","Outcome"]
+  },
+  "deck": "RWS",
+  "cards_drawn": [
+    { "name": "Eight of Pentacles", "reversed": false, "position": 1 },
+    { "name": "Three of Wands", "reversed": false, "position": 2 },
+    { "name": "King of Pentacles", "reversed": false, "position": 3 },
+    { "name": "Seven of Swords", "reversed": true, "position": 4 },
+    { "name": "The Emperor", "reversed": false, "position": 5 },
+    { "name": "Six of Pentacles", "reversed": true, "position": 6 },
+    { "name": "Wheel of Fortune", "reversed": false, "position": 7 }
+  ],
+  "reader_notes": {
+    "majors_count": 2,
+    "element_bias": { "fire": 3, "water": 0, "air": 1, "earth": 3 },
+    "reversals_count": 2,
+    "numerology": { "aces": 0, "fives": 0, "sevens": 1 }
+  }
+}
+

@@ -1,0 +1,44 @@
+{
+  "user_id": "a94fddb3-6f44-4a9a-8f60-00589ce10ae9",
+  "session_id": "f2dc4a8d-2a98-47a8-87d0-6ad4e3c846ce",
+  "timestamp_iso": "2025-09-13T10:20:00+10:00",
+  "intent": "personal_growth",
+  "focus_prompt": "What practice will break my current plateau?",
+  "timeframe": "90d",
+  "constraints": { "no_topics": [], "exclude_people": [] },
+  "context": { "relationship_status": "single", "work_status": "founder", "emotion_tone": 3 },
+  "style": { "voice": "practical_strategist", "depth": "deep", "spirituality": "light" },
+  "spread": {
+    "name": "Path Nine",
+    "positions": [
+      "Past wound",
+      "Current pattern",
+      "Strength",
+      "Teacher",
+      "Practice",
+      "Test",
+      "Resource",
+      "Mantra",
+      "Near outcome"
+    ]
+  },
+  "deck": "RWS",
+  "cards_drawn": [
+    { "name": "The Hermit", "reversed": false, "position": 1 },
+    { "name": "Eight of Cups", "reversed": true, "position": 2 },
+    { "name": "Nine of Pentacles", "reversed": false, "position": 3 },
+    { "name": "The Hierophant", "reversed": true, "position": 4 },
+    { "name": "Page of Wands", "reversed": false, "position": 5 },
+    { "name": "The Hanged Man", "reversed": false, "position": 6 },
+    { "name": "Queen of Swords", "reversed": false, "position": 7 },
+    { "name": "The Star", "reversed": true, "position": 8 },
+    { "name": "Three of Cups", "reversed": false, "position": 9 }
+  ],
+  "reader_notes": {
+    "majors_count": 4,
+    "element_bias": { "fire": 1, "water": 3, "air": 2, "earth": 3 },
+    "reversals_count": 3,
+    "numerology": { "aces": 0, "fives": 0, "sevens": 0 }
+  }
+}
+
